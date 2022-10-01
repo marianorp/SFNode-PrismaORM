@@ -1,3 +1,4 @@
 # SFNode-PrismaORM
 
-CRUD operations with Prisma, Express
+
+Nodejs Express with Prisma ORM, simple Crud Operation.
